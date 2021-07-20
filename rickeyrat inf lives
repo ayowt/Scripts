@@ -1,0 +1,5 @@
+local guts = game.Players.LocalPlayer.XP --guts are in-game currency/the money
+local lives = game.Players.LocalPlayer.CurrentLives -- self explanatory (LIVES WILL NOT WORK IN INSANE MODE)
+
+guts.Value = math.huge --big number 
+lives.Value = 69 --haha funny number/change to higher if you so please but you wont need that much lives
